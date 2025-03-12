@@ -1,0 +1,9 @@
+<opml version="2.0">
+<body>
+	<outline text="Subscriptions" title="Subscriptions">
+
+		<outline xmlUrl='https://hamatti.org/feed/feed.xml' />
+
+	</outline>
+</body>
+</opml>
