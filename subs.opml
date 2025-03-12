@@ -3,6 +3,7 @@
 	<outline text="Subscriptions" title="Subscriptions">
 
 		<outline xmlUrl='https://hamatti.org/feed/feed.xml' />
+		<outline xmlUrl='https://archipylago.dev/feed/feed.xml' />
 
 	</outline>
 </body>
